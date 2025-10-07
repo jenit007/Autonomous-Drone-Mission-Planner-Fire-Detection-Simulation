@@ -1,0 +1,17 @@
+🔥 Drone & Fire Logs 🔥
+========================
+
+=== Drones ===
+ID: 1 | Name: Drone 2 | Battery: 70 | X: 951 | Y: 417 | Last Updated: 2025-10-07 11:06:40
+ID: 2 | Name: Drone 2 | Battery: 70 | X: 25 | Y: 414 | Last Updated: 2025-10-07 11:06:44
+ID: 3 | Name: Drone 2 | Battery: 70 | X: 559 | Y: 148 | Last Updated: 2025-10-07 11:06:56
+ID: 4 | Name: Drone 2 | Battery: 70 | X: 1333 | Y: 582 | Last Updated: 2025-10-07 11:07:01
+ID: 5 | Name: Drone 2 | Battery: 70 | X: 223 | Y: 519 | Last Updated: 2025-10-07 11:07:07
+ID: 6 | Name: Drone 2 | Battery: 70 | X: 769 | Y: 8 | Last Updated: 2025-10-07 11:07:17
+ID: 7 | Name: Drone 2 | Battery: 70 | X: 1557 | Y: 869 | Last Updated: 2025-10-07 11:07:19
+ID: 8 | Name: Drone | Battery: 33 | X: 1802 | Y: 885 | Last Updated: 2025-10-07 11:07:39
+
+=== Fires ===
+ID: 1 | X: 1406 | Y: 489 | Detected Time: 2025-10-07 11:07:50
+ID: 2 | X: 1406 | Y: 489 | Detected Time: 2025-10-07 11:07:50
+========================
